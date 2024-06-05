@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\IT\\Mephi\\ISP_401\\14.05 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\VS\\Viskunov_EXZ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7BDE8C-FB27-4198-A284-10B8DF7D1612}|Viskunov_EXZ\\Viskunov_EXZ.csproj|F:\\IT\\Mephi\\ISP_401\\14.05 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\VS\\Viskunov_EXZ\\viskunov_exz\\reg_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7BDE8C-FB27-4198-A284-10B8DF7D1612}|Viskunov_EXZ\\Viskunov_EXZ.csproj|solutionrelative:viskunov_exz\\reg_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7BDE8C-FB27-4198-A284-10B8DF7D1612}|Viskunov_EXZ\\Viskunov_EXZ.csproj|F:\\IT\\Mephi\\ISP_401\\14.05 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\VS\\Viskunov_EXZ\\viskunov_exz\\reg_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE7BDE8C-FB27-4198-A284-10B8DF7D1612}|Viskunov_EXZ\\Viskunov_EXZ.csproj|solutionrelative:viskunov_exz\\reg_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7BDE8C-FB27-4198-A284-10B8DF7D1612}|Viskunov_EXZ\\Viskunov_EXZ.csproj|f:\\it\\mephi\\isp_401\\14.05 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\vs\\viskunov_exz\\viskunov_exz\\qrform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7BDE8C-FB27-4198-A284-10B8DF7D1612}|Viskunov_EXZ\\Viskunov_EXZ.csproj|solutionrelative:viskunov_exz\\qrform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7BDE8C-FB27-4198-A284-10B8DF7D1612}|Viskunov_EXZ\\Viskunov_EXZ.csproj|f:\\it\\mephi\\isp_401\\14.05 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\vs\\viskunov_exz\\viskunov_exz\\qrform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE7BDE8C-FB27-4198-A284-10B8DF7D1612}|Viskunov_EXZ\\Viskunov_EXZ.csproj|solutionrelative:viskunov_exz\\qrform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Viskunov_EXZ||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7BDE8C-FB27-4198-A284-10B8DF7D1612}|Viskunov_EXZ\\Viskunov_EXZ.csproj|F:\\IT\\Mephi\\ISP_401\\14.05 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\VS\\Viskunov_EXZ\\viskunov_exz\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE7BDE8C-FB27-4198-A284-10B8DF7D1612}|Viskunov_EXZ\\Viskunov_EXZ.csproj|solutionrelative:viskunov_exz\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7BDE8C-FB27-4198-A284-10B8DF7D1612}|Viskunov_EXZ\\Viskunov_EXZ.csproj|f:\\it\\mephi\\isp_401\\14.05 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\vs\\viskunov_exz\\viskunov_exz\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7BDE8C-FB27-4198-A284-10B8DF7D1612}|Viskunov_EXZ\\Viskunov_EXZ.csproj|solutionrelative:viskunov_exz\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7BDE8C-FB27-4198-A284-10B8DF7D1612}|Viskunov_EXZ\\Viskunov_EXZ.csproj|F:\\IT\\Mephi\\ISP_401\\14.05 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\VS\\Viskunov_EXZ\\viskunov_exz\\autorizform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE7BDE8C-FB27-4198-A284-10B8DF7D1612}|Viskunov_EXZ\\Viskunov_EXZ.csproj|solutionrelative:viskunov_exz\\autorizform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7BDE8C-FB27-4198-A284-10B8DF7D1612}|Viskunov_EXZ\\Viskunov_EXZ.csproj|f:\\it\\mephi\\isp_401\\14.05 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\vs\\viskunov_exz\\viskunov_exz\\autorizform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7BDE8C-FB27-4198-A284-10B8DF7D1612}|Viskunov_EXZ\\Viskunov_EXZ.csproj|solutionrelative:viskunov_exz\\autorizform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7BDE8C-FB27-4198-A284-10B8DF7D1612}|Viskunov_EXZ\\Viskunov_EXZ.csproj|F:\\IT\\Mephi\\ISP_401\\14.05 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\VS\\Viskunov_EXZ\\viskunov_exz\\datasend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7BDE8C-FB27-4198-A284-10B8DF7D1612}|Viskunov_EXZ\\Viskunov_EXZ.csproj|solutionrelative:viskunov_exz\\datasend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7BDE8C-FB27-4198-A284-10B8DF7D1612}|Viskunov_EXZ\\Viskunov_EXZ.csproj|f:\\it\\mephi\\isp_401\\14.05 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\vs\\viskunov_exz\\viskunov_exz\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{EE7BDE8C-FB27-4198-A284-10B8DF7D1612}|Viskunov_EXZ\\Viskunov_EXZ.csproj|solutionrelative:viskunov_exz\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "F:\\IT\\Mephi\\ISP_401\\14.05 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\VS\\Viskunov_EXZ\\Viskunov_EXZ\\MainForm.cs",
+              "RelativeDocumentMoniker": "Viskunov_EXZ\\MainForm.cs",
+              "ToolTip": "F:\\IT\\Mephi\\ISP_401\\14.05 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\VS\\Viskunov_EXZ\\Viskunov_EXZ\\MainForm.cs",
+              "RelativeToolTip": "Viskunov_EXZ\\MainForm.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T13:27:45.131Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QRForm.cs",
+              "DocumentMoniker": "F:\\IT\\Mephi\\ISP_401\\14.05 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\VS\\Viskunov_EXZ\\Viskunov_EXZ\\QRForm.cs",
+              "RelativeDocumentMoniker": "Viskunov_EXZ\\QRForm.cs",
+              "ToolTip": "F:\\IT\\Mephi\\ISP_401\\14.05 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\VS\\Viskunov_EXZ\\Viskunov_EXZ\\QRForm.cs",
+              "RelativeToolTip": "Viskunov_EXZ\\QRForm.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAArwCgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T13:54:59.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QRForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "F:\\IT\\Mephi\\ISP_401\\14.05 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\VS\\Viskunov_EXZ\\Viskunov_EXZ\\QRForm.cs",
+              "RelativeDocumentMoniker": "Viskunov_EXZ\\QRForm.cs",
+              "ToolTip": "F:\\IT\\Mephi\\ISP_401\\14.05 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\VS\\Viskunov_EXZ\\Viskunov_EXZ\\QRForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Viskunov_EXZ\\QRForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T13:52:22.735Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AutorizForm.cs",
+              "DocumentMoniker": "F:\\IT\\Mephi\\ISP_401\\14.05 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\VS\\Viskunov_EXZ\\Viskunov_EXZ\\AutorizForm.cs",
+              "RelativeDocumentMoniker": "Viskunov_EXZ\\AutorizForm.cs",
+              "ToolTip": "F:\\IT\\Mephi\\ISP_401\\14.05 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\VS\\Viskunov_EXZ\\Viskunov_EXZ\\AutorizForm.cs",
+              "RelativeToolTip": "Viskunov_EXZ\\AutorizForm.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAkwDgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T08:43:30.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Reg_Form.cs",
+              "DocumentMoniker": "F:\\IT\\Mephi\\ISP_401\\14.05 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\VS\\Viskunov_EXZ\\Viskunov_EXZ\\Reg_Form.cs",
+              "RelativeDocumentMoniker": "Viskunov_EXZ\\Reg_Form.cs",
+              "ToolTip": "F:\\IT\\Mephi\\ISP_401\\14.05 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\VS\\Viskunov_EXZ\\Viskunov_EXZ\\Reg_Form.cs",
+              "RelativeToolTip": "Viskunov_EXZ\\Reg_Form.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAEwCQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T08:48:33.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AutorizForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "F:\\IT\\Mephi\\ISP_401\\14.05 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\VS\\Viskunov_EXZ\\Viskunov_EXZ\\AutorizForm.cs",
+              "RelativeDocumentMoniker": "Viskunov_EXZ\\AutorizForm.cs",
+              "ToolTip": "F:\\IT\\Mephi\\ISP_401\\14.05 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\VS\\Viskunov_EXZ\\Viskunov_EXZ\\AutorizForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Viskunov_EXZ\\AutorizForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T08:05:39.528Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataSend.cs",
+              "DocumentMoniker": "F:\\IT\\Mephi\\ISP_401\\14.05 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\VS\\Viskunov_EXZ\\Viskunov_EXZ\\DataSend.cs",
+              "RelativeDocumentMoniker": "Viskunov_EXZ\\DataSend.cs",
+              "ToolTip": "F:\\IT\\Mephi\\ISP_401\\14.05 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\VS\\Viskunov_EXZ\\Viskunov_EXZ\\DataSend.cs",
+              "RelativeToolTip": "Viskunov_EXZ\\DataSend.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T09:07:01.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Viskunov_EXZ",
+              "DocumentMoniker": "F:\\IT\\Mephi\\ISP_401\\14.05 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\VS\\Viskunov_EXZ\\Viskunov_EXZ\\Viskunov_EXZ.csproj",
+              "RelativeDocumentMoniker": "Viskunov_EXZ\\Viskunov_EXZ.csproj",
+              "ToolTip": "F:\\IT\\Mephi\\ISP_401\\14.05 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\VS\\Viskunov_EXZ\\Viskunov_EXZ\\Viskunov_EXZ.csproj",
+              "RelativeToolTip": "Viskunov_EXZ\\Viskunov_EXZ.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-04T12:57:47.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "F:\\IT\\Mephi\\ISP_401\\14.05 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\VS\\Viskunov_EXZ\\Viskunov_EXZ\\MainForm.cs",
+              "RelativeDocumentMoniker": "Viskunov_EXZ\\MainForm.cs",
+              "ToolTip": "F:\\IT\\Mephi\\ISP_401\\14.05 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\VS\\Viskunov_EXZ\\Viskunov_EXZ\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Viskunov_EXZ\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T08:14:11.803Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reg_Form.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "F:\\IT\\Mephi\\ISP_401\\14.05 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\VS\\Viskunov_EXZ\\Viskunov_EXZ\\Reg_Form.cs",
+              "RelativeDocumentMoniker": "Viskunov_EXZ\\Reg_Form.cs",
+              "ToolTip": "F:\\IT\\Mephi\\ISP_401\\14.05 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430\\VS\\Viskunov_EXZ\\Viskunov_EXZ\\Reg_Form.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Viskunov_EXZ\\Reg_Form.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T08:11:25.801Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+F:\IT\Mephi\ISP_401\14.05 задание подготовка\VS\Viskunov_EXZ\Viskunov_EXZ\bin\Debug\Viskunov_EXZ.exe.config
+F:\IT\Mephi\ISP_401\14.05 задание подготовка\VS\Viskunov_EXZ\Viskunov_EXZ\bin\Debug\Viskunov_EXZ.exe
+F:\IT\Mephi\ISP_401\14.05 задание подготовка\VS\Viskunov_EXZ\Viskunov_EXZ\bin\Debug\Viskunov_EXZ.pdb
+F:\IT\Mephi\ISP_401\14.05 задание подготовка\VS\Viskunov_EXZ\Viskunov_EXZ\obj\Debug\Viskunov_EXZ.csproj.AssemblyReference.cache
+F:\IT\Mephi\ISP_401\14.05 задание подготовка\VS\Viskunov_EXZ\Viskunov_EXZ\obj\Debug\Viskunov_EXZ.AutorizForm.resources
+F:\IT\Mephi\ISP_401\14.05 задание подготовка\VS\Viskunov_EXZ\Viskunov_EXZ\obj\Debug\Viskunov_EXZ.MainForm.resources
+F:\IT\Mephi\ISP_401\14.05 задание подготовка\VS\Viskunov_EXZ\Viskunov_EXZ\obj\Debug\Viskunov_EXZ.Properties.Resources.resources
+F:\IT\Mephi\ISP_401\14.05 задание подготовка\VS\Viskunov_EXZ\Viskunov_EXZ\obj\Debug\Viskunov_EXZ.Reg_Form.resources
+F:\IT\Mephi\ISP_401\14.05 задание подготовка\VS\Viskunov_EXZ\Viskunov_EXZ\obj\Debug\Viskunov_EXZ.csproj.GenerateResource.cache
+F:\IT\Mephi\ISP_401\14.05 задание подготовка\VS\Viskunov_EXZ\Viskunov_EXZ\obj\Debug\Viskunov_EXZ.csproj.CoreCompileInputs.cache
+F:\IT\Mephi\ISP_401\14.05 задание подготовка\VS\Viskunov_EXZ\Viskunov_EXZ\obj\Debug\Viskunov_EXZ.exe
+F:\IT\Mephi\ISP_401\14.05 задание подготовка\VS\Viskunov_EXZ\Viskunov_EXZ\obj\Debug\Viskunov_EXZ.pdb
+F:\IT\Mephi\ISP_401\14.05 задание подготовка\VS\Viskunov_EXZ\Viskunov_EXZ\bin\Debug\QRCoder.dll
+F:\IT\Mephi\ISP_401\14.05 задание подготовка\VS\Viskunov_EXZ\Viskunov_EXZ\obj\Debug\Viskunov_EXZ.QRForm.resources
+F:\IT\Mephi\ISP_401\14.05 задание подготовка\VS\Viskunov_EXZ\Viskunov_EXZ\obj\Debug\Viskunov.808E63D5.Up2Date
